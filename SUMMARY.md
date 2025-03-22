@@ -1,5 +1,7 @@
 # Table of contents
 
+* [CPU Core](CPU Core)
+* 
 * [test](README.md)
 * [Parallelism and Concurrency](<Parallelism and Concurrency.md>)
 * [ㅁ](undefined.md)
