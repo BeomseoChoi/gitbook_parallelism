@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ㅁ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1ac695c5ef9cd1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ㅁ.md",
+                "file": "CPU Core.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ㅁ.md",
+                "file": "CPU Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ㅁ.md",
+                "file": "CPU Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ㅁ.md"
+                "file": "CPU Core.md"
               }
             }
           },
@@ -180,11 +168,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1ac695c5ef9cd1e",
+  "active": "880ec994334135c4",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "ㅁ.md",
+    "Pasted image 20250322233059.png",
+    "Pasted image 20250322233045.png",
+    "Pasted image 20250322233031.png",
+    "Pasted image 20250322233011.png",
+    "Pasted image 20250322232957.png",
     "Parallelism and Concurrency.md",
+    "resources/images/Transistor_count_trends.png",
+    "CPU Core.md",
+    "resources/images/SMT.png",
+    "resources/images",
+    "resources",
+    "Untitled 1.md",
     "test.md"
   ]
 }
