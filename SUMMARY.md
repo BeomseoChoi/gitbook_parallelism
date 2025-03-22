@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CPU Core](CPU Core)
+* [CPU Core](<CPU Core>)
 * 
 * [test](README.md)
 * [Parallelism and Concurrency](<Parallelism and Concurrency.md>)
