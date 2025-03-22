@@ -1,3 +1,4 @@
 # Table of contents
 
-* [CPU Core](<CPU Core.md>)
+- [Multi-core programming](<posts/Multi-core programming.md>)
+* [CPU Core](<posts/CPU Core.md>)
