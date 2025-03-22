@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9cc9cbf850674134",
+        "id": "14332c056ad5a453",
         "type": "tabs",
         "children": [
           {
-            "id": "4741656ce1b97ddb",
+            "id": "4ab1bd46ed4b2722",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,12 +155,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4741656ce1b97ddb",
+  "active": "4ab1bd46ed4b2722",
   "lastOpenFiles": [
+    "resources/images/Pasted image 20250322234758.png",
     "Parallelism and Concurrency.md",
+    "resources/images/Pasted.md",
+    "CPU Core.md",
     "SUMMARY.md",
     "README.md",
-    "CPU Core.md",
     "CPU.md",
     "undefined.md",
     "Untitled 1.md",
