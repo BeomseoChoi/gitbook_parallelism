@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CPU Core.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CPU Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CPU Core.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CPU Core.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "929dc5ceb345f7b0",
   "lastOpenFiles": [
+    "README.md",
     "CPU Core.md",
     "Parallelism and Concurrency.md",
     "resources/images/Pasted image 20250322232957.png",
     "SUMMARY.md",
-    "README.md",
     "resources/images/Pasted image 20250322233059.png",
     "resources/images/Pasted image 20250322233045.png",
     "resources/images/Pasted image 20250322233031.png",
