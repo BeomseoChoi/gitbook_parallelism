@@ -1,4 +1,3 @@
 # Table of contents
 
-- [Multi-core programming](<posts/Multi-core programming.md>)
-* [CPU Core](<posts/CPU Core.md>)
+* [속도 성능을 위한 기법들](<posts/속도 성능을 위한 기법들.md>)
